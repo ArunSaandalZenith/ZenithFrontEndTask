@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Zenith Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src:
+    local('Zenith Montserrat'),
+    local('ZenithMontserrat-Light300'),
+    url('/fonts/zenith-montserrat/ZenithMontserrat-Light300.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Zenith Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    local('Zenith Montserrat'),
+    local('ZenithMontserrat-Regular400'),
+    url('/fonts/zenith-montserrat/ZenithMontserrat-Regular400.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Zenith Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    local('Zenith Montserrat Medium'),
+    local('ZenithMontserrat-Medium500'),
+    url('/fonts/zenith-montserrat/ZenithMontserrat-Medium500.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Zenith Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src:
+    local('ZenithMontserrat-SemiBold600'),
+    local('ZenithMontserrat-SemiBold600'),
+    url('/fonts/zenith-montserrat/ZenithMontserrat-SemiBold600.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Zenith Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    local('ZenithMontserrat-Bold700'),
+    local('Zenith Montserrat-Bold'),
+    url('/fonts/zenith-montserrat/ZenithMontserrat-Bold700.otf') format('opentype');
+}

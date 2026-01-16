@@ -1,0 +1,21 @@
+<div class="card">
+  <ul class="card__header taglist">
+    @for (tag of vehicle().tags; track $index) {
+      <li class="taglist__item" data-testid="vehicle-tag">{{ tag }}</li>
+    }
+  </ul>
+  <img
+    [src]="vehicle().imageUrl"
+    [alt]="vehicle().model"
+    class="card__image"
+    data-testid="vehicle-image"
+  />
+  <h2 class="card__title" data-testid="vehicle-title">
+    {{ vehicle().make }} {{ vehicle().model }}
+  </h2>
+  <p class="card__description" data-testid="vehicle-description">
+    From
+    {{ vehicle().monthlyNetCost | currency: 'GBP' : 'symbol' : '1.0-0' }}
+    /monthly net cost
+  </p>
+</div>

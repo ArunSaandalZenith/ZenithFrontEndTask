@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "make": "Jeep",
+    "model": "Avenger Hatchback",
+    "tags": ["Electric"],
+    "monthlyNetCost": 457,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 2,
+    "make": "Peugeot",
+    "model": "E-2008 Estate",
+    "tags": ["Electric", "Faster delivery", "Special offer", "In stock"],
+    "monthlyNetCost": 329,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 3,
+    "make": "Cupra",
+    "model": "Born Hatchback",
+    "tags": ["Electric", "Faster delivery", "In stock"],
+    "monthlyNetCost": 814,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 4,
+    "make": "BYD",
+    "model": "Atto 3 Hatchback",
+    "tags": ["Electric", "Faster delivery", "In stock"],
+    "monthlyNetCost": 699,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 5,
+    "make": "Tesla",
+    "model": "Model 3 Saloon",
+    "tags": ["Electric", "Special offer"],
+    "monthlyNetCost": 895,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 6,
+    "make": "Volkswagen",
+    "model": "ID.4 SUV",
+    "tags": ["Electric", "In stock"],
+    "monthlyNetCost": 542,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 7,
+    "make": "Nissan",
+    "model": "Ariya Estate",
+    "tags": ["Electric", "Faster delivery"],
+    "monthlyNetCost": 624,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 8,
+    "make": "Hyundai",
+    "model": "Ioniq 5 SUV",
+    "tags": ["Electric", "Special offer", "In stock"],
+    "monthlyNetCost": 758,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 9,
+    "make": "Kia",
+    "model": "EV6 Crossover",
+    "tags": ["Electric", "Faster delivery", "In stock"],
+    "monthlyNetCost": 689,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 10,
+    "make": "MG",
+    "model": "MG4 Hatchback",
+    "tags": ["Electric", "Special offer"],
+    "monthlyNetCost": 299,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 11,
+    "make": "BMW",
+    "model": "iX3 SUV",
+    "tags": ["Electric"],
+    "monthlyNetCost": 1024,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 12,
+    "make": "Mercedes-Benz",
+    "model": "EQA Estate",
+    "tags": ["Electric", "In stock"],
+    "monthlyNetCost": 967,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 13,
+    "make": "Audi",
+    "model": "Q4 e-tron SUV",
+    "tags": ["Electric", "Faster delivery"],
+    "monthlyNetCost": 1156,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 14,
+    "make": "Renault",
+    "model": "Megane E-Tech Hatchback",
+    "tags": ["Electric", "Special offer", "Faster delivery", "In stock"],
+    "monthlyNetCost": 412,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 15,
+    "make": "Volvo",
+    "model": "XC40 Recharge SUV",
+    "tags": ["Electric"],
+    "monthlyNetCost": 878,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 16,
+    "make": "Ford",
+    "model": "Mustang Mach-E SUV",
+    "tags": ["Electric", "In stock"],
+    "monthlyNetCost": 923,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 17,
+    "make": "Skoda",
+    "model": "Enyaq iV Estate",
+    "tags": ["Electric", "Faster delivery", "Special offer"],
+    "monthlyNetCost": 634,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 18,
+    "make": "Mazda",
+    "model": "MX-30 Crossover",
+    "tags": ["Electric"],
+    "monthlyNetCost": 445,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 19,
+    "make": "Porsche",
+    "model": "Taycan Saloon",
+    "tags": ["Electric", "Special offer"],
+    "monthlyNetCost": 1489,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 20,
+    "make": "Smart",
+    "model": "#1 Hatchback",
+    "tags": ["Electric", "In stock", "Faster delivery"],
+    "monthlyNetCost": 378,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 21,
+    "make": "Fiat",
+    "model": "500e Hatchback",
+    "tags": ["Electric", "Special offer", "In stock"],
+    "monthlyNetCost": 285,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 22,
+    "make": "Opel",
+    "model": "Mokka Electric SUV",
+    "tags": ["Electric", "Faster delivery"],
+    "monthlyNetCost": 398,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 23,
+    "make": "Tesla",
+    "model": "Model Y SUV",
+    "tags": ["Electric", "In stock"],
+    "monthlyNetCost": 1124,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 24,
+    "make": "Genesis",
+    "model": "GV60 SUV",
+    "tags": ["Electric"],
+    "monthlyNetCost": 1045,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 25,
+    "make": "Citroen",
+    "model": "e-C4 Hatchback",
+    "tags": ["Electric", "Faster delivery", "Special offer"],
+    "monthlyNetCost": 365,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 26,
+    "make": "Honda",
+    "model": "e:Ny1 SUV",
+    "tags": ["Electric", "In stock"],
+    "monthlyNetCost": 587,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 27,
+    "make": "Mini",
+    "model": "Electric Hatchback",
+    "tags": ["Electric", "Special offer", "Faster delivery"],
+    "monthlyNetCost": 523,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 28,
+    "make": "Lexus",
+    "model": "UX 300e SUV",
+    "tags": ["Electric"],
+    "monthlyNetCost": 789,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 29,
+    "make": "DS",
+    "model": "3 E-Tense Crossover",
+    "tags": ["Electric", "In stock", "Faster delivery"],
+    "monthlyNetCost": 456,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 30,
+    "make": "Alfa Romeo",
+    "model": "Tonale PHEV SUV",
+    "tags": ["Electric", "Special offer"],
+    "monthlyNetCost": 734,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 31,
+    "make": "BMW",
+    "model": "i4 Saloon",
+    "tags": ["Electric", "Faster delivery"],
+    "monthlyNetCost": 1198,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 32,
+    "make": "Volkswagen",
+    "model": "ID.3 Hatchback",
+    "tags": ["Electric", "Special offer", "In stock"],
+    "monthlyNetCost": 467,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 33,
+    "make": "Nissan",
+    "model": "Leaf Hatchback",
+    "tags": ["Electric", "In stock"],
+    "monthlyNetCost": 389,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 34,
+    "make": "Peugeot",
+    "model": "e-208 Hatchback",
+    "tags": ["Electric", "Faster delivery", "Special offer"],
+    "monthlyNetCost": 345,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 35,
+    "make": "Kia",
+    "model": "Niro EV Estate",
+    "tags": ["Electric", "In stock"],
+    "monthlyNetCost": 578,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 36,
+    "make": "Audi",
+    "model": "e-tron GT Saloon",
+    "tags": ["Electric", "Special offer"],
+    "monthlyNetCost": 1567,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 37,
+    "make": "Mercedes-Benz",
+    "model": "EQC SUV",
+    "tags": ["Electric", "Faster delivery"],
+    "monthlyNetCost": 1089,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 38,
+    "make": "Hyundai",
+    "model": "Kona Electric SUV",
+    "tags": ["Electric", "In stock", "Faster delivery"],
+    "monthlyNetCost": 512,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 39,
+    "make": "Volkswagen",
+    "model": "ID.5 SUV",
+    "tags": ["Electric"],
+    "monthlyNetCost": 623,
+    "imageUrl": "cars/sample.png"
+  },
+  {
+    "id": 40,
+    "make": "BMW",
+    "model": "iX SUV",
+    "tags": ["Electric", "In stock"],
+    "monthlyNetCost": 1345,
+    "imageUrl": "cars/sample.png"
+  }
+]

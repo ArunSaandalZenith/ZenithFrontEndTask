@@ -1,0 +1,28 @@
+@import url('./zenith-montserrat.css');
+
+* {
+  font-family: 'Zenith Montserrat', sans-serif;
+}
+
+body {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  line-height: 33px;
+  letter-spacing: 0.3px;
+
+  color: var(--zen-neutral-tint-one);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+  color: var(--zen-colour-base2-default);
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
+}
